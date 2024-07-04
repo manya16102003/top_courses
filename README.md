@@ -13,6 +13,8 @@ Happy coding! If you have any questions or need further assistance, feel free to
 ![image](https://github.com/manya16102003/top_courses/assets/123743851/01a7b82e-4f37-4ada-b16c-0118cd657453)
 
 Toasts
+use npm i react-toastify for installing toast container
+use npm i react-icons for installing icons
 ![image](https://github.com/manya16102003/top_courses/assets/123743851/a5eb8f4b-a0e3-4a17-8f64-5059d30f62e7)
 
 filter courses according to the category
